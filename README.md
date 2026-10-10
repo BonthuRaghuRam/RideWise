@@ -1,4 +1,4 @@
-# RideWise 🚕
+# RideWise 
 
 A simple console-based ride-sharing app written in Java, like a tiny Uber or Ola. You can add riders and drivers, book a ride, and get a fare.
 
